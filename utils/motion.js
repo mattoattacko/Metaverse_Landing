@@ -1,3 +1,5 @@
+// 'variants' show us that we can modify the animation
+
 export const navVariants = {
   hidden: {
     opacity: 0,

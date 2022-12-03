@@ -1,3 +1,4 @@
+// allows us to change the title of the page
 const Head = () => (
   <>
     <title>Metaversus</title>
