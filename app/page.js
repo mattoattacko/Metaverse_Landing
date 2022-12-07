@@ -5,6 +5,7 @@ const Page = () => (
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
     <Hero />
+    {/* we needed to structure with divs so that the gradients worked correctly */}
     <div className="relative">
       <About />
       <div className="gradient-03 z-0" />
