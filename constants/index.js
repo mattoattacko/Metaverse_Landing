@@ -50,21 +50,21 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of the Metaverse',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'A metaverse is a shared virtual space that encompasses a wide range of activities, including socializing, gaming, and commerce. It is a collective virtual shared space, created by the convergence of the real and the virtual.',
   },
   {
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'To easily master the madness of the metaverse, it is important to take the time to learn the rules and norms of each virtual world you visit. Additionally, it can be helpful to connect with other users and seek out guidance and support from more experienced members of the metaverse community.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'With one platform you can explore infinite virtual worlds',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'One of the key benefits of the metaverse is that it allows users to explore a wide range of virtual worlds and environments from a single platform.',
   },
 ];
 
