@@ -2,7 +2,7 @@
 const nextConfig = {
   experimental: {
     reactStrictMode: true,
-    experimental: { appDir: true },
+    experimental: { appDir: false }, // this is true if we want to run on local
   },
 };
 
