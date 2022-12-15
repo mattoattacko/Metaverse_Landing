@@ -30,17 +30,17 @@ const World = () => (
         />
 
         {/* The little images of people */}
-        <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680] z-1">
+        <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
           <img
             src="/people-01.png"
             alt="People"
-            className="w-full h-full "
+            className="w-full h-full"
           />
-          <img
+          {/* <img
             src="/Union.png"
             alt="Union"
             className="absolute bottom-21 right-19 w-[100%] h-[100%] p=[6px] z-0"
-          />
+          /> */}
 
         </div>
 

@@ -72,6 +72,7 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    // href: 'https://twitter.com/',
   },
   {
     name: 'linkedin',
