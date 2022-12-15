@@ -56,7 +56,7 @@ export const insights = [
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Tips for navigating the madness of the Metaverse',
     subtitle:
         'To easily master the madness of the metaverse, it is important to take the time to learn the rules and norms of each virtual world you visit. Additionally, it can be helpful to connect with other users and seek out guidance and support from more experienced members of the metaverse community.',
   },
